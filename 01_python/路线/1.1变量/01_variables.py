@@ -22,3 +22,7 @@ table_name = "app_trs_bank_acct_bal_df"
 schema_name = "ads_sk"
 table = f"{schema_name}.{table_name}"
 print(table)
+
+
+#测试 
+print("这是新增测试")
